@@ -1,0 +1,2 @@
+# plotly_3d_scatter_nextjs
+plotlyの3次元散布図をnextjsのSSGで作って、Github Pagesで動くようにする
