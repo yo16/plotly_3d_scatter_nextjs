@@ -29,7 +29,7 @@ export default function Chart3d({ data, width = 600, height = 400 }: Chart3dProp
         z: unpackXyz(data, "z"),
         mode: "markers",
         marker: {
-            size: 2,
+            size: 1.5,
         },
         type: "scatter3d",
     }];
