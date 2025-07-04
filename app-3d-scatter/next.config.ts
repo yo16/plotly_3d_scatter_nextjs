@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/app-3d-scatter",
+  basePath: "/plotly_3d_scatter_nextjs",
   trailingSlash: true,
 };
 
